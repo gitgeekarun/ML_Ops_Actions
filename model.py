@@ -18,4 +18,4 @@ def main():
   accuracy = accuracy_score(y_test, predictions)
   print(f"Accuracy: {accuracy:.2f}")
 if __name__ == "__main__":
-main()
+  main()-
